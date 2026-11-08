@@ -2,8 +2,8 @@
 using namespace std;
 int main()
 {
-    int i=6,j=1;
-f
+    int i=18,j=1;
+
     do
     {
         cout<<i*j<<endl;

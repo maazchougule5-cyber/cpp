@@ -5,8 +5,8 @@ int main()
     int a[100];
     int i,small; 
     cout<<"Enter The numbers=";
-    for
-    {(i=0;i<5;i++)
+    for (i=0;i<5;i++)
+    {
         cin>>a[i];
     }
     small=a[0];
@@ -17,6 +17,6 @@ int main()
             small=a[i];
         }
     }
-    cout<<"The smallest Number is ="<<small<<endl;
+    cout<<"The smallest Number is="<<small<<endl;
 
 }        
